@@ -1,0 +1,88 @@
+/* body shared*/
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+/* nav related style*/
+
+.banner{
+    background: url(../new-year-new-me/images/banner/banner1.png);
+    background-size: cover;
+    text-align: right;
+    padding: 18rem 12rem 15rem 60rem;
+}
+
+.name{
+    display: flex;
+    width: 525px;
+    flex-direction: column;
+    flex-shrink: 0;
+    color: #151414;
+    font-size: 65px;
+    font-style: normal;
+    font-weight: 700;
+}
+.para{
+    display: flex;
+    width: 494px;
+    flex-direction: column;
+    color: var: #444343;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
+.bt{
+    background: #F15B22;
+    width: 160px;
+    height: 64px;
+    color: #FFF; 
+}
+
+.banpic{
+    padding: 30px 30px 30px 30px;
+    display: flex;
+}
+.banimg{
+    padding: 30px 30px 12px 200px;
+}
+
+.bantext-title{
+    display: flex;
+    align-items: center;
+    padding: 150px 10px 0px 100px;
+    width: 288px;
+    color: #151414;
+    font-size: 40px;
+    font-weight: 400px;
+}
+
+.bandescription{
+    display: flex;
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    padding: 0px 300px 10px 100px;
+}
+.list{
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 0px 300px 10px 150px;
+}
+
+.lista{
+    padding: 5px;
+}
+.listb{
+    padding: 5px;
+}
+.listc{
+    padding: 5px;
+}
+.listd{
+    padding: 5px;
+
+}
+.liste{
+    padding: 5px;
+}
